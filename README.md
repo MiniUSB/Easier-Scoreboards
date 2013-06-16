@@ -1,4 +1,4 @@
-Easier-Scoreboards
+Easier Scoreboards
 ==================
 
 Easier and more memorable command alternatives to /scoreboard in Minecraft
